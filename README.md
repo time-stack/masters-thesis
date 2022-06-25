@@ -1,4 +1,4 @@
-# Digital Appendix - Masters Thesis
+# Digital Appendix - Master's Thesis
 
 This is the digital appendix of the master's thesis 'Delayed Impact Optimization: Mitigating Bias in Deep Learning' submitted for acquiring the degree of
 Master of Science (M.Sc.) in Business Administration at the School of Business and Economics at Humboldt University Berlin.
