@@ -12,5 +12,5 @@ Handed in: 04.07.2022
 
 
 # Important note: 
-For easier access, this link opens the jupyter notebook directly in Colab:
+For easier access, this link opens the jupyter notebook directly in Colab:\n
 https://colab.research.google.com/drive/1VvaB_smpy99v-Kv4Urfwvb9O3TPvHAZD?usp=sharing
